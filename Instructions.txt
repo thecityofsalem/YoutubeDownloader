@@ -1,0 +1,7 @@
+its as simple as
+-------------------------------------------------------------
+1.) getting a youtube video link,
+2.) opening the batch file,
+3.) paste,
+4.) folder called Downloaded appears, with your video inside.
+-------------------------------------------------------------
